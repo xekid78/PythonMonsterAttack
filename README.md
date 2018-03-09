@@ -1,0 +1,2 @@
+# PythonMonsterAttack
+クラスでモンスターへの攻撃
